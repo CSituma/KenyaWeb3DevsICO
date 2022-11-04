@@ -1,0 +1,4 @@
+// Address of the NFT Contract that you deployed
+const KENYAN_WEB3__DEVS_NFT_CONTRACT_ADDRESS = "0x8055480Eee6975778bb1D78269DbB283A4C3ff4e";
+
+module.exports = { KENYAN_WEB3__DEVS_NFT_CONTRACT_ADDRESS };
